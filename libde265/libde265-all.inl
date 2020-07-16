@@ -4,7 +4,7 @@
 #else
 #define HAVE_POSIX_MEMALIGN 1
 #endif
-#define HAVE_SSE4_1 1
+//#define HAVE_SSE4_1 1
 // #define HAVE_ARM
 // #define HAVE_NEON
 
